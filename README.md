@@ -1,2 +1,2 @@
-# Prank-scripts
- Pov) prank friends
+# Prank-friends
+***lol***
