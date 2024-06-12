@@ -1,5 +1,6 @@
 const Elements = document.querySelectorAll("*");
 
+console.log('Loaded!')
 const deleteRandomDiv = () => {
   if (Elements.length === 0) {
     clearInterval(intervalId);
